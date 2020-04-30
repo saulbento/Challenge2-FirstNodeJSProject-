@@ -1,0 +1,3 @@
+Run yarn on your terminal to install the dependencies. 
+
+After that to run the application run yarn dev:server
