@@ -1,3 +1,9 @@
 Run yarn on your terminal to install the dependencies. 
 
 After that to run the application run yarn dev:server
+
+On this project was used as developer dependencies jest, eslint, prettier and typescript.
+
+As project dependencies was used the 'express' to control our routes and 'uuidv4' to create unique Id's for the transactions created.
+
+The type of database used was Postgress on TypeORM.
